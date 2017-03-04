@@ -1,0 +1,9 @@
+*.obj
+*.o
+*.d
+*.bin
+*.elf
+*.lz
+*.map
+*.lib
+/mwlibs_include
